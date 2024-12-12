@@ -1,3 +1,3 @@
 # git-practice
-this is for demo purpose
-author:atanu
+this is for demo purpose<br>
+author:atanumaity
