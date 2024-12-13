@@ -1,4 +1,4 @@
 # git-practice
 
 this is for demo purpose<br>
-author:atanumaity0895
+author:atanumaity
